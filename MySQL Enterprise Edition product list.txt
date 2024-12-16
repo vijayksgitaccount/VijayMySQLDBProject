@@ -1,0 +1,133 @@
+MySQL Enterprise Edition
+*	MySQL Server 8.4.3 for Linux x86-64
+		V1045747-01(V1045747-01.zip)		MySQL Commercial Server 8.4.3 DEB for Debian 12 Linux x86 (64bit), 1.4 GB
+		V1045748-01(V1045748-01.zip)		MySQL Commercial Server 8.4.3 DEB for Ubuntu 22.04 Linux x86 (64bit), 1.4 GB
+		V1045749-01(V1045749-01.zip)		MySQL Commercial Server 8.4.3 DEB for Ubuntu 24.04 Linux x86 (64bit), 1.3 GB
+		V1045752-01(V1045752-01.zip)		MySQL Commercial Server 8.4.3 Minimal TAR for Generic Linux (glibc2.17) x86 (64bit), 93.6 MB
+		V1045753-01(V1045753-01.zip)		MySQL Commercial Server 8.4.3 TAR for Generic Linux (glibc2.17) x86 (64bit), 917.2 MB
+		V1045755-01(V1045755-01.zip)		MySQL Commercial Server 8.4.3 TAR for Generic Linux (glibc2.28) x86 (64bit), 929.7 MB
+		V1045766-01(V1045766-01.zip)		MySQL Commercial Server 8.4.3 RPM for Oracle Linux / RHEL 7 x86 (64bit), 1.2 GB
+		V1045768-01(V1045768-01.zip)		MySQL Commercial Server 8.4.3 RPM for Oracle Linux / RHEL 8 x86 (64bit), 1.0 GB
+	*	V1045770-01(V1045770-01.zip)		MySQL Commercial Server 8.4.3 RPM for Oracle Linux / RHEL 9 x86 (64bit), 1007.5 MB
+		V1045771-01(V1045771-01.zip)		MySQL Commercial Server 8.4.3 RPM for SuSE Enterprise Linux 15 / openSUSE 15 x86 (64bit), 1.1 GB
+		V1045772-01(V1045772-01.zip)		MySQL Database/Components 8.4.3 Yum Repository TAR for Oracle Linux / RHEL 7 x86 (64bit), 1.2 GB
+		V1045774-01(V1045774-01.zip)		MySQL Database/Components 8.4.3 Yum Repository TAR for Oracle Linux / RHEL 8 x86 (64bit), 530.5 MB
+		V1045776-01(V1045776-01.zip)		MySQL Database/Components 8.4.3 Yum Repository TAR for Oracle Linux / RHEL 9 x86 (64bit), 478.2 MB
+		V1045778-01(V1045778-01.zip)		MySQL Database/Components 8.4.3 SLES Repository TAR for SuSE Ent Linux 15 / openSUSE 15 x86 (64bit), 519.6 MB
+*	MySQL Enterprise Backup 8.4.3 for Linux x86-64
+		V1045805-01(V1045805-01.zip)		MySQL Enterprise Backup 8.4.3 RPM for Oracle Linux / RHEL 7 x86 (64bit), 28.0 MB
+		V1045807-01(V1045807-01.zip)		MySQL Enterprise Backup 8.4.3 RPM for Oracle Linux / RHEL 8 x86 (64bit), 22.2 MB
+	*	V1045809-01(V1045809-01.zip)		MySQL Enterprise Backup 8.4.3 RPM for Oracle Linux / RHEL 9 x86 (64bit), 23.3 MB
+		V1045810-01(V1045810-01.zip)		MySQL Enterprise Backup 8.4.3 RPM for SuSE Enterprise Linux 15 / openSUSE 15 x86 (64bit), 21.5 MB
+		V1045813-01(V1045813-01.zip)		MySQL Enterprise Backup 8.4.3 Minimal TAR for Generic Linux (glibc2.17) x86 (64bit), 6.6 MB
+		V1045814-01(V1045814-01.zip)		MySQL Enterprise Backup 8.4.3 TAR for Generic Linux (glibc2.17) x86 (64bit), 38.9 MB
+		V1045816-01(V1045816-01.zip)		MySQL Enterprise Backup 8.4.3 TAR for Generic Linux (glibc2.28) x86 (64bit), 39.0 MB
+		V1045825-01(V1045825-01.zip)		MySQL Enterprise Backup 8.4.3 DEB for Debian 12 Linux x86 (64bit), 34.8 MB
+		V1045826-01(V1045826-01.zip)		MySQL Enterprise Backup 8.4.3 DEB for Ubuntu 22.04 Linux x86 (64bit), 36.4 MB
+		V1045827-01(V1045827-01.zip)		MySQL Enterprise Backup 8.4.3 DEB for Ubuntu 24.04 Linux x86 (64bit), 34.2 MB
+*	MySQL Router 8.4.3 for Linux x86-64
+		V1045780-01(V1045780-01.zip)		MySQL Router 8.4.3 RPM for Oracle Linux / RHEL 7 x86 (64bit), 59.0 MB
+		V1045782-01(V1045782-01.zip)		MySQL Router 8.4.3 RPM for Oracle Linux / RHEL 8 x86 (64bit), 42.9 MB
+	**	V1045784-01(V1045784-01.zip)		MySQL Router 8.4.3 RPM for Oracle Linux / RHEL 9 x86 (64bit), 44.3 MB
+		V1045785-01(V1045785-01.zip)		MySQL Router 8.4.3 RPM for SuSE Enterprise Linux 15 / openSUSE 15 x86 (64bit), 50.0 MB
+		V1045789-01(V1045789-01.zip)		MySQL Router 8.4.3 TAR for Generic Linux (glibc2.17) x86 (64bit), 66.0 MB
+		V1045788-01(V1045788-01.zip)		MySQL Router 8.4.3 Minimal TAR for Generic Linux (glibc2.17) x86 (64bit), 21.7 MB
+		V1045791-01(V1045791-01.zip)		MySQL Router 8.4.3 TAR for Generic Linux (glibc2.28) x86 (64bit), 65.2 MB
+		V1045802-01(V1045802-01.zip)		MySQL Router 8.4.3 DEB for Ubuntu 22.04 Linux x86 (64bit), 84.1 MB
+		V1045801-01(V1045801-01.zip)		MySQL Router 8.4.3 DEB for Debian 12 Linux x86 (64bit), 81.2 MB
+		V1045803-01(V1045803-01.zip)		MySQL Router 8.4.3 DEB for Ubuntu 24.04 Linux x86 (64bit), 79.0 MB
+*	MySQL Shell 8.4.3 for Linux x86-64
+		V1045892-01(V1045892-01.zip)		MySQL Shell 8.4.3 RPM for Oracle Linux / RHEL 7 x86 (64bit), 555.0 MB
+		V1045894-01(V1045894-01.zip)		MySQL Shell 8.4.3 RPM for Oracle Linux / RHEL 8 x86 (64bit), 439.8 MB
+	*	V1045896-01(V1045896-01.zip)		MySQL Shell 8.4.3 RPM for Oracle Linux / RHEL 9 x86 (64bit), 513.2 MB
+		V1045897-01(V1045897-01.zip)		MySQL Shell 8.4.3 RPM for SuSE Enterprise Linux 15 / openSUSE 15 x86 (64bit), 482.6 MB
+		V1045899-01(V1045899-01.zip)		MySQL Shell 8.4.3 TAR for Generic Linux (glibc2.17) x86 (64bit), 104.8 MB
+		V1045901-01(V1045901-01.zip)		MySQL Shell 8.4.3 TAR for Generic Linux (glibc2.28) x86 (64bit), 125.7 MB
+		V1045909-01(V1045909-01.zip)		MySQL Shell 8.4.3 DEB for Ubuntu 22.04 Linux x86 (64bit), 762.4 MB
+		V1045908-01(V1045908-01.zip)		MySQL Shell 8.4.3 DEB for Debian 12 Linux x86 (64bit), 756.5 MB
+		V1045910-01(V1045910-01.zip)		MySQL Shell 8.4.3 DEB for Ubuntu 24.04 Linux x86 (64bit), 732.9 MB
+*	MySQL Connector C++ 9.1.0 for Linux x86-64
+		V1045979-01(V1045979-01.zip)		MySQL Connector/C++ 9.1.0 DEB for Debian 12 Linux x86 (64bit), 34.6 MB
+		V1045980-01(V1045980-01.zip)		MySQL Connector/C++ 9.1.0 DEB for Ubuntu 22.04 Linux x86 (64bit), 34.7 MB
+		V1045981-01(V1045981-01.zip)		MySQL Connector/C++ 9.1.0 DEB for Ubuntu 24.04 Linux x86 (64bit), 34.2 MB
+		V1045983-01(V1045983-01.zip)		MySQL Connector/C++ 9.1.0 RPM for Oracle Linux / RHEL 7 x86 (64bit), 43.9 MB
+		V1045985-01(V1045985-01.zip)		MySQL Connector/C++ 9.1.0 RPM for Oracle Linux / RHEL 8 x86 (64bit), 38.4 MB
+	*	V1045987-01(V1045987-01.zip)		MySQL Connector/C++ 9.1.0 RPM for Oracle Linux / RHEL 9 x86 (64bit), 33.2 MB
+		V1045988-01(V1045988-01.zip)		MySQL Connector/C++ 9.1.0 RPM for SuSE Enterprise Linux 15 / openSUSE 15 x86 (64bit), 72.4 MB
+		V1045991-01(V1045991-01.zip)		MySQL Connector/C++ 9.1.0 TAR for Generic Linux (glibc2.28) x86 (64bit, debug), 28.5 MB
+		V1045992-01(V1045992-01.zip)		MySQL Connector/C++ 9.1.0 TAR for Generic Linux (glibc2.28) x86 (64bit), 13.0 MB
+*	MySQL Connector J 9.1.0 for Linux x86-64
+		V1046087-01(V1046087-01.zip)		MySQL Connector/J 9.1.0 RPM for Oracle Linux / RHEL 7 (portable), 2.4 MB
+		V1046088-01(V1046088-01.zip)		MySQL Connector/J 9.1.0 RPM for Oracle Linux / RHEL 8 (portable), 2.4 MB
+	*	V1046089-01(V1046089-01.zip)		MySQL Connector/J 9.1.0 RPM for Oracle Linux / RHEL 9 (portable), 2.4 MB
+		V1046091-01(V1046091-01.zip)		MySQL Connector/J 9.1.0 TAR for portable Java binaries, 2.4 MB
+		V1046090-01(V1046090-01.zip)		MySQL Connector/J 9.1.0 RPM for SuSE Enterprise Linux 15 / openSUSE 15 (portable), 2.4 MB
+		V1046092-01(V1046092-01.zip)		MySQL Connector/J 9.1.0 ZIP for portable Java binaries, 2.4 MB
+		V1046093-01(V1046093-01.zip)		MySQL Connector/J 9.1.0 DEB for Debian 12 Linux portable Python binaries, 2.4 MB
+		V1046094-01(V1046094-01.zip)		MySQL Connector/J 9.1.0 DEB for Ubuntu 22.04 Linux portable Python binaries, 2.4 MB
+		V1046095-01(V1046095-01.zip)		MySQL Connector/J 9.1.0 DEB for Ubuntu 24.04 Linux portable Python binaries, 2.4 MB
+*	MySQL Connector NET 9.1.0 for Linux x86-64
+		V1045978-01(V1045978-01.zip)		MySQL Connector/NET 9.1.0 ZIP for portable .NET binaries, 33.0 MB
+*	MySQL Connector ODBC 9.1.0 for Linux x86-64
+		V1045957-01(V1045957-01.zip)		MySQL Connector/ODBC 9.1.0 RPM for Oracle Linux / RHEL 7 x86 (64bit), 49.2 MB
+		V1045959-01(V1045959-01.zip)		MySQL Connector/ODBC 9.1.0 RPM for Oracle Linux / RHEL 8 x86 (64bit), 39.3 MB
+	*	V1045961-01(V1045961-01.zip)		MySQL Connector/ODBC 9.1.0 RPM for Oracle Linux / RHEL 9 x86 (64bit), 31.8 MB
+		V1045962-01(V1045962-01.zip)		MySQL Connector/ODBC 9.1.0 RPM for SuSE Enterprise Linux 15 / openSUSE 15 x86 (64bit), 36.2 MB
+		V1045964-01(V1045964-01.zip)		MySQL Connector/ODBC 9.1.0 TAR for Generic Linux (glibc2.28) x86 (64bit), 46.7 MB
+		V1045975-01(V1045975-01.zip)		MySQL Connector/ODBC 9.1.0 DEB for Ubuntu 22.04 Linux x86 (64bit), 43.7 MB
+		V1045974-01(V1045974-01.zip)		MySQL Connector/ODBC 9.1.0 DEB for Debian 12 Linux x86 (64bit), 47.8 MB
+		V1045976-01(V1045976-01.zip)		MySQL Connector/ODBC 9.1.0 DEB for Ubuntu 24.04 Linux x86 (64bit), 43.6 MB
+*	MySQL Connector Python 9.1.0 for Linux x86-64
+		V1046001-01(V1046001-01.zip)		MySQL Connector/Python 9.1.0 classic MySQL API TAR for portable Python 3.10 binaries, 399.6 KB
+		V1046002-01(V1046002-01.zip)		MySQL Connector/Python 9.1.0 classic MySQL API ZIP for portable Python 3.10 binaries, 465.5 KB
+		V1046003-01(V1046003-01.zip)		MySQL Connector/Python 9.1.0 classic MySQL API TAR for portable Python 3.11 binaries, 565.7 KB
+		V1046004-01(V1046004-01.zip)		MySQL Connector/Python 9.1.0 classic MySQL API ZIP for portable Python 3.11 binaries, 631.2 KB
+		V1046005-01(V1046005-01.zip)		MySQL Connector/Python 9.1.0 classic MySQL API TAR for portable Python 3.12 binaries, 550.6 KB
+		V1046006-01(V1046006-01.zip)		MySQL Connector/Python 9.1.0 classic MySQL API ZIP for portable Python 3.12 binaries, 616.7 KB
+		V1046007-01(V1046007-01.zip)		MySQL Connector/Python 9.1.0 classic MySQL API TAR for portable Python 3.13 binaries, 552.4 KB
+		V1046008-01(V1046008-01.zip)		MySQL Connector/Python 9.1.0 classic MySQL API ZIP for portable Python 3.13 binaries, 619.6 KB
+		V1046009-01(V1046009-01.zip)		MySQL Connector/Python 9.1.0 classic MySQL API TAR for portable Python 3.9 binaries, 393.4 KB
+		V1046010-01(V1046010-01.zip)		MySQL Connector/Python 9.1.0 classic MySQL API ZIP for portable Python 3.9 binaries, 459.2 KB
+		V1046012-01(V1046012-01.zip)		MySQL Connector/Python 9.1.0 classic MySQL API RPM for Oracle Linux / RHEL 8 x86 (64bit), 7.4 MB
+	*	V1046014-01(V1046014-01.zip)		MySQL Connector/Python 9.1.0 classic MySQL API RPM for Oracle Linux / RHEL 9 x86 (64bit), 2.5 MB
+		V1046018-01(V1046018-01.zip)		MySQL Connector/Python 9.1.0 classic MySQL API WHL for portable Generic Linux (glibc2.28) x86 (64bit) Python 3.10, 19.4 MB
+		V1046025-01(V1046025-01.zip)		MySQL Connector/Python 9.1.0 classic MySQL API WHL for portable Generic Linux (glibc2.28) x86 (64bit) Python 3.11, 19.4 MB
+		V1046030-01(V1046030-01.zip)		MySQL Connector/Python 9.1.0 classic MySQL API WHL for portable Generic Linux (glibc2.28) x86 (64bit) Python 3.12, 19.4 MB
+		V1046035-01(V1046035-01.zip)		MySQL Connector/Python 9.1.0 classic MySQL API WHL for portable Generic Linux (glibc2.28) x86 (64bit) Python 3.13, 19.4 MB
+		V1046040-01(V1046040-01.zip)		MySQL Connector/Python 9.1.0 classic MySQL API WHL for portable Generic Linux (glibc2.28) x86 (64bit) Python 3.9, 19.4 MB
+		V1046042-01(V1046042-01.zip)		MySQL Connector/Python 9.1.0 classic MySQL API WHL for portable Python 3.x, 335.2 KB
+		V1046043-01(V1046043-01.zip)		MySQL Connector/Python 9.1.0 X DevAPI TAR for portable Python 3.10 binaries, 212.8 KB
+		V1046047-01(V1046047-01.zip)		MySQL Connector/Python 9.1.0 X DevAPI ZIP for portable Python 3.10 binaries, 238.3 KB
+		V1046048-01(V1046048-01.zip)		MySQL Connector/Python 9.1.0 X DevAPI TAR for portable Python 3.11 binaries, 282.3 KB
+		V1046049-01(V1046049-01.zip)		MySQL Connector/Python 9.1.0 X DevAPI ZIP for portable Python 3.11 binaries, 308.9 KB
+		V1046051-01(V1046051-01.zip)		MySQL Connector/Python 9.1.0 X DevAPI ZIP for portable Python 3.12 binaries, 298.6 KB
+		V1046050-01(V1046050-01.zip)		MySQL Connector/Python 9.1.0 X DevAPI TAR for portable Python 3.12 binaries, 272.4 KB
+		V1046052-01(V1046052-01.zip)		MySQL Connector/Python 9.1.0 X DevAPI TAR for portable Python 3.13 binaries, 273.4 KB
+		V1046053-01(V1046053-01.zip)		MySQL Connector/Python 9.1.0 X DevAPI ZIP for portable Python 3.13 binaries, 299.8 KB
+		V1046054-01(V1046054-01.zip)		MySQL Connector/Python 9.1.0 X DevAPI TAR for portable Python 3.9 binaries, 209.4 KB
+		V1046055-01(V1046055-01.zip)		MySQL Connector/Python 9.1.0 X DevAPI ZIP for portable Python 3.9 binaries, 234.6 KB
+		V1046057-01(V1046057-01.zip)		MySQL Connector/Python 9.1.0 X DevAPI RPM for Oracle Linux / RHEL 8 x86 (64bit), 1.3 MB
+	*	V1046059-01(V1046059-01.zip)		MySQL Connector/Python 9.1.0 X DevAPI RPM for Oracle Linux / RHEL 9 x86 (64bit), 1.2 MB
+		V1046063-01(V1046063-01.zip)		MySQL Connector/Python 9.1.0 X DevAPI WHL for portable Generic Linux (glibc2.28) x86 (64bit) Python 3.10, 18.9 MB
+		V1046068-01(V1046068-01.zip)		MySQL Connector/Python 9.1.0 X DevAPI WHL for portable Generic Linux (glibc2.28) x86 (64bit) Python 3.11, 18.9 MB
+		V1046073-01(V1046073-01.zip)		MySQL Connector/Python 9.1.0 X DevAPI WHL for portable Generic Linux (glibc2.28) x86 (64bit) Python 3.12, 18.9 MB
+		V1046078-01(V1046078-01.zip)		MySQL Connector/Python 9.1.0 X DevAPI WHL for portable Generic Linux (glibc2.28) x86 (64bit) Python 3.13, 18.9 MB
+		V1046083-01(V1046083-01.zip)		MySQL Connector/Python 9.1.0 X DevAPI WHL for portable Generic Linux (glibc2.28) x86 (64bit) Python 3.9, 18.9 MB
+		V1046085-01(V1046085-01.zip)		MySQL Connector/Python 9.1.0 X DevAPI WHL for portable Python 3.x, 168.8 KB
+*	MySQL Operator 8.4.3 for Linux x86-64
+		V1045943-01(V1045943-01.zip)		MySQL Operator 8.4.3-2.1.5 YAML+HELM for Generic Platform, 45.2 KB
+	*	V1045944-01(V1045944-01.zip)		MySQL Operator 8.4.3-2.1.5 Docker Image TAR for Generic Linux x86 (64bit), 183.0 MB
+*	MySQL Workbench 8.0.40 for Linux x86-64
+		V1045950-01(V1045950-01.zip)		MySQL Workbench 8.0.40 RPM for Oracle Linux / RHEL 8 x86 (64bit), 93.8 MB
+	*	V1045951-01(V1045951-01.zip)		MySQL Workbench 8.0.40 RPM for Oracle Linux / RHEL 9 x86 (64bit), 94.5 MB
+		V1045955-01(V1045955-01.zip)		MySQL Workbench 8.0.40 DEB for Ubuntu 24.04 Linux x86 (64bit), 90.9 MB
+*	MySQL Enterprise Monitor 8.0.40 for Linux x86-64
+	*	V1046254-01(V1046254-01.zip)		MySQL Enterprise Monitor Service Manager 8.0.40 for Linux x86 (64-bit), 1.9 GB
+	*	V1046257-01(V1046257-01.zip)		MySQL Enterprise Monitor Agent 8.0.40 for Linux x86 (64-bit), 301.8 MB
+	*	V1046255-01(V1046255-01.zip)		MySQL Enterprise Monitor Service Manager 8.0.40 for Windows x86 (64-bit), 1.9 GB
+	*	V1046258-01(V1046258-01.zip)		MySQL Enterprise Monitor Agent 8.0.40 for Windows x86 (64-bit), 301.8 MB
+*	MySQL Connector for Node.js 8.0.35 for Linux x86-64
+		V1039088-01(V1039088-01.zip)		MySQL Connector for Nodejs 8.0.35 TAR for Generic Platform, 496.0 KB
+*	Enterprise Manager for MySQL Database 13.5.1.0.0 for Linux x86-64
+	*	V1021772-01(V1021772-01.zip)		Enterprise Manager for MySQL Database 13.5.1.0.0, 101.5 MB
+		
